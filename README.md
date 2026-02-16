@@ -12,11 +12,11 @@ La carpeta `scripts` contiene todos mis scripts organizados por categoría o fun
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/my_scripts.git'''
+   git clone https://github.com/tu_usuario/my_scripts.git
 
 2. Navega hasta el directorio del repositorio:
-   ''' bash
-    cd mis_scripts'''
+   ```bash
+    cd mis_scripts
 
 3. Explora los scripts disponibles y léete la documentación de cada uno para entender cómo usarlos.
 
