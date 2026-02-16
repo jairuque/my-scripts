@@ -16,7 +16,7 @@ La carpeta `scripts` contiene todos mis scripts organizados por categoría o fun
 
 2. Navega hasta el directorio del repositorio:
    ```bash
-    cd mis_scripts
+    cd my-scripts
 
 3. Explora los scripts disponibles y léete la documentación de cada uno para entender cómo usarlos.
 
