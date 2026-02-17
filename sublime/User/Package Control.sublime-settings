@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Catppuccin color schemes",
+		"Color Highlight",
+		"Color Highlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"JsPrettier",
+		"LSP",
+		"LSP-css",
+		"LSP-eslint",
+		"LSP-intelephense",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Companion",
+		"PHP Snippets",
+		"Prettierd Format",
+		"SFTP",
+		"SideBarEnhancements",
+		"Tailwind CSS Autocomplete",
+		"Twig",
+		"ZSH",
+	],
+	"in_process_packages":
+	[
+	],
+}
