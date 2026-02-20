@@ -23,6 +23,7 @@ BACKUP_DIR="${HOME}/.config/sublime-backups/$(date +%Y%m%d%H%M%S)"
 DRY_RUN=0
 VERBOSE=0
 
+# Función de ayuda
 usage() {
   cat <<EOF
 Usage: $0 [--dry-run] [--repo PATH] [--verbose]

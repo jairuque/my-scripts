@@ -1,0 +1,50 @@
+section: screens
+	LAPTOP-FD3TDLM3:
+		halfDuplexCapsLock = false
+		halfDuplexNumLock = false
+		halfDuplexScrollLock = false
+		xtestIsXineramaUnaware = false
+		preserveFocus = false
+		switchCorners = none 
+		switchCornerSize = 0
+	spinsp31421:
+		halfDuplexCapsLock = false
+		halfDuplexNumLock = false
+		halfDuplexScrollLock = false
+		xtestIsXineramaUnaware = false
+		preserveFocus = false
+		switchCorners = none 
+		switchCornerSize = 0
+	laptop-lenovo:
+		halfDuplexCapsLock = false
+		halfDuplexNumLock = false
+		halfDuplexScrollLock = false
+		xtestIsXineramaUnaware = false
+		preserveFocus = false
+		switchCorners = none 
+		switchCornerSize = 0
+end
+
+section: aliases
+end
+
+section: links
+	LAPTOP-FD3TDLM3:
+		right = spinsp31421
+	spinsp31421:
+		right = laptop-lenovo
+		left = LAPTOP-FD3TDLM3
+	laptop-lenovo:
+		left = spinsp31421
+end
+
+section: options
+	relativeMouseMoves = false
+	screenSaverSync = true
+	win32KeepForeground = false
+	clipboardSharing = true
+	clipboardSharingSize = 100000000
+	switchCorners = none 
+	switchCornerSize = 0
+end
+
